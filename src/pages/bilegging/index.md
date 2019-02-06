@@ -1,7 +1,7 @@
 ---
 templateKey: 'bilegging'
 path: /bilegging
-title: Bílegging
+title: Bilegging
 ---
 ### Bílegging
 Um tit eru áhugað í at bíleggja vørur frá okkum,
