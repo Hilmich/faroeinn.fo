@@ -9,21 +9,19 @@ const Navbar = () => (
     <div className="container">
       <div className="navbar-brand">
         <Link to="/" className="navbar-item">
-          <figure className="image">
-            <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
-          </figure>
+          Forsíða
         </Link>
       </div>
       <div className="navbar-start">
-        <Link className="navbar-item" to="/about">
-          About
+        <Link className="navbar-item" to="/bilegging">
+          Bílegging
         </Link>
-        <Link className="navbar-item" to="/products">
-          Products
+        <Link className="navbar-item" to="/um-okkum">
+          Um okkum
         </Link>
-        <Link className="navbar-item" to="/test">
-          Test
-        </Link>
+        <Link className="navbar-item" to="/Link">
+          Link
+        </Link>        
       </div>
       <div className="navbar-end">
         <a
