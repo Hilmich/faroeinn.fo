@@ -7,7 +7,7 @@ import './all.sass'
 
 const TemplateWrapper = ({ children }) => (
   <div>
-    <Helmet title="Home | Gatsby + Netlify CMS" />
+    <Helmet title="Faroe Inn Import – v/ Hans Birgir Hansen  Í lon 1, Boks 3186 110-Tórshavn Tlf + 298 310021" />
     <Navbar />
     <div>{children()}</div>
   </div>
