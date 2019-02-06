@@ -3,5 +3,6 @@ templateKey: 'bilegging'
 path: /bilegging
 title: Bílegging
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Bílegging
+Um tit eru áhugað í at bíleggja vørur frá okkum,
+kunnu til at senda okkum ein email á faroeinn@olivant.fo
