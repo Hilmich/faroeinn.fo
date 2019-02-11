@@ -8,8 +8,9 @@ import './all.sass'
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet title="Faroe Inn Import – v/ Hans Birgir Hansen  Í lon 1, Boks 3186 110-Tórshavn Tlf + 298 310021" />
-    <Navbar />
+    <Navbar />    
     <div>{children()}</div>
+    <footer>Hej</footer>
   </div>
 )
 
