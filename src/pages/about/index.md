@@ -5,6 +5,10 @@ title: About us
 ---
 # About us
 
+<!-- >
+Add Sidebar component
+-->
+
 ## Natural Health and Comfort
 People get natural health from drinking natural/health drinks and eat pills that cleanse and balance the body. By following instructions it is possible to improve your personal well-being and thereby feel better.
 

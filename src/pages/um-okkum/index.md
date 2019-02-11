@@ -5,6 +5,10 @@ title: Um okkum
 ---
 # Um okkum
 
+<!-- >
+Add Sidebar component
+-->
+
 ## Náttúrlig heilsa & vælvera
 Fólk fáa náttúrliga heilsu við at drekka náttúru/heilsudrykkir og svølgja kapslar ella tablettir ið geva kropsreinsan og kropsjavnvág og heilsubót og økta vælveru við at fylgja leiðbeining.
 

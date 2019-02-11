@@ -5,6 +5,10 @@ title: Om os
 ---
 # Om os
 
+<!-- >
+Add Sidebar component
+-->
+
 ## Naturlig helse og velvære
 Folk bliver naturligt sunde ved at drikke natur/sundhedsdrikke og spise tabletter, som renser kroppen og får den i balance. Ved at følge vejledninger er det muligt at forbedre din personlige velvære og derved få det bedre.
 

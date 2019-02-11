@@ -3,42 +3,31 @@ templateKey: 'link'
 path: /link
 title: Link
 ---
-### Link
-<table>
-<tbody>
-<tr>
-<td><a href="http://www.atlantic.fo">Atlantic Airways</a></td>
-<td><a href="http://www.faroeship.fo">Faroe Ship</a></td>
-<td><a href="http://www.smyrilline.fo">Smyrilline</a></td>
-</tr>
-<tr>
-<td><a href="http://www.62n.fo">62N</a></td>
-<td><a href="http://www.visitfaroeislands.com">visitfaroeislands.com</a></td>
-<td><a href="http://www.helsenyt.com">Helsenyt</a></td>
-</tr>
-<tr>
-<td><a href="http://www.panacea.dk">Panacea</a></td>
-<td><a href="http://www.Soma.no">Soma.no</a></td>
-<td><a href="http://www.medox.no">medox.no</a></td>
-</tr>
-<tr>
-<td><a href="http://www.berryen.com/dk">Berryen</a></td>
-<td><a href="http://www.mayday-info.dk">Mayday-Info</a></td>
-<td><a href="http://www.ph-bodybalance.com/norsk">ph-bodybalance.com</a></td>
-</tr>
-<tr>
-<td><a href="http://www.natur-drogeriet.dk">Naturdrogeriet</a></td>
-<td><a href="http://www.foreverliving.se">Forever living</a></td>
-<td><a href="http://www.enjo.net">ENJO</a></td>
-</tr>
 
-</tbody>
-</table>
+<!-- >
+Add Sidebar component
+-->
 
-<div>
-    <div class="column">1</div>
-    <div class="column">2</div>
-    <div class="column">3</div>
-    <div class="column">4</div>
-    <div class="column">5</div>        
+<div class="columns">
+    <div class="column">        
+        <div class="box"><a href="http://www.atlantic.fo">Atlantic Airways</a></div>
+        <div class="box"><a href="http://www.62n.fo">62N</a></div>
+        <div class="box"><a href="http://www.panacea.dk">Panacea</a></div>
+        <div class="box"><a href="http://www.berryen.com/dk">Berryen</a></div>
+        <div class="box"><a href="http://www.natur-drogeriet.dk">Naturdrogeriet</a></div>
+    </div>
+    <div class="column">
+        <div class="box"><a href="http://www.faroeship.fo">Faroe Ship</a></div>
+        <div class="box"><a href="http://www.visitfaroeislands.com">visitfaroeislands.com</a></div>
+        <div class="box"><a href="http://www.Soma.no">Soma.no</a></div>
+        <div class="box"><a href="http://www.mayday-info.dk">Mayday-Info</a></div>
+        <div class="box"><a href="http://www.foreverliving.se">Forever living</a></div>
+    </div>        
+    <div class="column">
+        <div class="box"><a href="http://www.smyrilline.fo">Smyrilline</a></div>
+        <div class="box"><a href="http://www.helsenyt.com">Helsenyt</a></div>
+        <div class="box"><a href="http://www.medox.no">medox.no</a></div>
+        <div class="box"><a href="http://www.ph-bodybalance.com/norsk">ph-bodybalance.com</a></div>
+        <div class="box"><a href="http://www.enjo.net">ENJO</a></div>
+    </div>    
 </div>
