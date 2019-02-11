@@ -23,19 +23,15 @@ title: Link
 </tr>
 <tr>
 <td><a href="http://www.berryen.com/dk">Berryen</a></td>
-<td><a href="http://hansbirgirhansen.berryenstore.com/Default.aspx">hansbirgirhansen.berryenstore.com</a></td>
 <td><a href="http://www.mayday-info.dk">Mayday-Info</a></td>
-</tr>
-
-<tr>
 <td><a href="http://www.ph-bodybalance.com/norsk">ph-bodybalance.com</a></td>
+</tr>
+<tr>
 <td><a href="http://www.natur-drogeriet.dk">Naturdrogeriet</a></td>
 <td><a href="http://www.foreverliving.se">Forever living</a></td>
-</tr>
-<tr>
 <td><a href="http://www.enjo.net">ENJO</a></td>
-
 </tr>
+
 </tbody>
 </table>
 
