@@ -1,7 +1,7 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About us
+templateKey: 'um-okkum'
+path: /um-okkum
+title: Um okkum
 ---
 # Um okkum
 
