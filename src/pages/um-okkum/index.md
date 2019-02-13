@@ -3,8 +3,6 @@ templateKey: 'um-okkum'
 path: /um-okkum
 title: Um okkum
 ---
-# Um okkum
-
 <!-- >
 Add Sidebar component
 -->

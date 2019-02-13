@@ -3,8 +3,6 @@ templateKey: 'about-page'
 path: /about
 title: About us
 ---
-# About us
-
 <!-- >
 Add Sidebar component
 -->

@@ -3,8 +3,6 @@ templateKey: 'om-os'
 path: /om-os
 title: Om os
 ---
-# Om os
-
 <!-- >
 Add Sidebar component
 -->
